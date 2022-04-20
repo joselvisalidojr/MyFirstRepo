@@ -2,4 +2,6 @@
 
 This is my first project in Github
 
-Contact Joe
+Contact Some Author
+
+contact Joe
